@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90682aa0-7ac9-4bf9-9d64-a238fdb576d6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primeiro-swingui.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="1836e711-6791-4c26-9931-a6e2a939963f" name="Changes" comment="feat: started tutorial how to use swing ui">
+      <change afterPath="$PROJECT_DIR$/src/TwoSectionUI.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwoSectionUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,9 +27,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 0
+  &quot;associatedIndex&quot;: 5
 }</component>
-  <component name="ProjectId" id="2duVarNEUm1ccyWLWZUDGhNznxn" />
+  <component name="ProjectId" id="2dvCx88qY2BHs2GKZMYuziFhc3y" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -41,12 +38,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Application.TwoScreens.executor": "Run",
+    "Application.TwoSectionUI.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW": "true",
-    "UI_DESIGNER_EDITOR_MODE.PaletteManager.STATE": "left",
-    "UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH": "252",
-    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.STATE": "right",
+    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -54,6 +50,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propGUI",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -67,18 +64,27 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="90682aa0-7ac9-4bf9-9d64-a238fdb576d6" name="Changes" comment="" />
-      <created>1710858018374</created>
+      <changelist id="1836e711-6791-4c26-9931-a6e2a939963f" name="Changes" comment="feat: started tutorial how to use swing ui" />
+      <created>1710879408336</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1710858018374</updated>
-      <workItem from="1710858019460" duration="501000" />
-      <workItem from="1710858610331" duration="79000" />
-      <workItem from="1710860602694" duration="1087000" />
+      <updated>1710879408336</updated>
+      <workItem from="1710879409410" duration="1917000" />
+      <workItem from="1710980387254" duration="1855000" />
+      <workItem from="1710983742799" duration="226000" />
+      <workItem from="1710983978711" duration="410000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: started tutorial how to use swing ui" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: started tutorial how to use swing ui" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
